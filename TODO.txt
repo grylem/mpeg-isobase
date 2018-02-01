@@ -1,0 +1,3 @@
+Items to be done:
+- make a check of max_depth for nexted boxes
+- ability to override box class within box map (must configurable to support development mode when class uniqueness must be checked). Most likely by introducing "namespace"
